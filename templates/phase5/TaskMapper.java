@@ -6,23 +6,24 @@ import com.customer.taskmanager.dto.TaskCreateDTO;
 import com.customer.taskmanager.dto.TaskUpdateDTO;
 
 /**
- * 🎨 Phase 5: Code Brushes Template
+ * 🔍 Phase 5: Code Review Template
  * Mapper class for converting between Task entities and DTOs
  * 
- * 🎯 Code Brushes Instructions:
- * 1. Select code sections visually with your cursor
- * 2. Use Copilot's brush tool to transform selected code
- * 3. Apply different transformation patterns:
- *    - Convert to builder pattern
- *    - Add null safety checks
- *    - Transform to fluent interface
- *    - Add validation logic
+ * 🎯 Code Review Instructions:
+ * 1. Use GitHub Copilot's code review feature to analyze this code
+ * 2. Trigger reviews with Ctrl+Shift+P → "GitHub Copilot: Review and Comment"
+ * 3. Look for potential improvements in:
+ *    - Security vulnerabilities
+ *    - Performance issues
+ *    - Code maintainability
+ *    - Best practices compliance
  * 
- * 🎨 Brush Transformation Examples:
- * - Select assignment block → "Convert to builder pattern"
- * - Select method → "Add null safety"
- * - Select class → "Add fluent interface"
- * - Select validation → "Use Bean Validation"
+ * 🔍 Review Focus Areas:
+ * - Null safety and defensive programming
+ * - Performance optimization opportunities
+ * - Security considerations in data mapping
+ * - Code complexity and maintainability
+ * - Best practices for mapper implementations
  */
 public class TaskMapper {
 

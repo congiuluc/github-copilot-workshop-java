@@ -38,10 +38,10 @@ templates/
 │   ├── TaskRepository.java     # Repository interface
 │   ├── DatabaseConfig.java     # Database configuration
 │   └── slash-commands.md       # Command reference
-├── phase5/                      # 🎨 Code Brushes
+├── phase5/                      # 🔍 Code Review
 │   ├── TaskMapper.java         # DTO mapping template
 │   ├── ErrorHandler.java       # Global error handler
-│   └── brush-examples.md       # Visual transformation examples
+│   └── review-examples.md      # Code review examples
 ├── phase6/                      # 💡 Code Actions
 │   ├── TaskValidation.java     # Advanced validation
 │   ├── SecurityConfig.java     # Security configuration
@@ -76,7 +76,7 @@ templates/
 | **2️⃣ Copilot Chat** | Service interfaces and chat examples | **Interactive AI pair programming** | **Chat conversations** |
 | **3️⃣ Inline Chat** | Controllers with inline improvements | **Context-aware enhancements** | **Inline suggestions** |
 | **4️⃣ Slash Commands** | Repository and config templates | **Specialized AI tools** | **Command shortcuts** |
-| **5️⃣ Code Brushes** | Mapping and error handling | **Visual code transformation** | **Brush selections** |
+| **5️⃣ Code Review** | Code analysis and quality review | **AI-powered code analysis** | **Quality feedback** |
 | **6️⃣ Code Actions** | Validation and security | **Intelligent quick fixes** | **Action suggestions** |
 | **7️⃣ Editor Completions** | Analytics and reporting | **Advanced predictive coding** | **Smart completions** |
 | **8️⃣ AI Commit Messages** | Notifications and auditing | **Professional Git workflow** | **Commit message AI** |

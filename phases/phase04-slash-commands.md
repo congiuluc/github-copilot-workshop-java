@@ -420,9 +420,9 @@ Include comprehensive documentation and unit tests for each utility class.
 ---
 
 ## 🚀 Next Phase
-Ready to enhance your code visually and interactively? Continue to **[🎨 Phase 5: Code Brushes](phase05-code-brushes.md)** where you'll learn to use Copilot's visual editing features to transform selected code sections with intuitive brush-like actions.
+Ready to enhance your code quality with AI-powered analysis? Continue to **[🔍 Phase 5: Code Review](phase05-code-review.md)** where you'll learn to use Copilot's intelligent code review capabilities to identify security vulnerabilities, performance issues, and maintainability improvements.
 
 ---
 **💡 Pro Tip**: Slash commands are most powerful when combined! Use `/generate` to create code, `/doc` to document it, `/test` to verify it, and `/optimize` to perfect it. This creates a complete, professional development workflow with AI assistance at every step.
 
-[![➡️ Next: Phase 5 - Code Brushes](https://img.shields.io/badge/➡️-Next%3A%20Phase%205%20Code%20Brushes-green?style=flat-square)](phase05-code-brushes.md)
+[![➡️ Next: Phase 5 - Code Review](https://img.shields.io/badge/➡️-Next%3A%20Phase%205%20Code%20Review-green?style=flat-square)](phase05-code-review.md)

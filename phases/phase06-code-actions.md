@@ -1,7 +1,7 @@
 # 💡 Phase 6: Code Actions - Intelligent Quick Fixes
 **🎯 GitHub Copilot Feature**: Smart fixes and suggestions via lightbulb icons
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 5](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%205-lightgrey?style=flat-square)](phase05-code-brushes.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 5](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%205-lightgrey?style=flat-square)](phase05-code-review.md)
 
 ## 🎯 Objective
 Master Copilot's Code Actions to automatically identify and fix code issues, apply quick improvements, and implement suggested enhancements through the intelligent lightbulb suggestions that appear directly in your editor.

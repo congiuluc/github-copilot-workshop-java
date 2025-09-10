@@ -459,7 +459,7 @@ Technical Requirements:
 - **💬 Copilot Chat**: Interactive AI pair programming
 - **⚡ Inline Chat**: Context-aware code enhancement
 - **⚙️ Slash Commands**: Specialized AI development tools
-- **🎨 Code Brushes**: Visual code transformation
+- **🔍 Code Review**: AI-powered code analysis
 - **💡 Code Actions**: Intelligent quick fixes and improvements
 - **🧠 Editor Completions**: Advanced predictive coding
 - **📝 AI Commit Messages**: Professional Git history management

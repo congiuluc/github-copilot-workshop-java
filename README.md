@@ -22,7 +22,7 @@ We'll build a console-based task management system that includes:
 | 2 | 💬 **Copilot Chat** | Interactive AI assistant | Design architecture and get code reviews | [📖 Phase 2](phases/phase02-copilot-chat.md) |
 | 3 | ⚡ **Inline Chat** | Context-aware editing | Enhance models with validation | [📖 Phase 3](phases/phase03-inline-chat.md) |
 | 4 | ⚙️ **Slash Commands** | Quick actions and templates | Generate service layer and interfaces | [📖 Phase 4](phases/phase04-slash-commands.md) |
-| 5 | 🎨 **Code Brushes** | Selection-based improvements | Refactor and optimize existing code | [📖 Phase 5](phases/phase05-code-brushes.md) |
+| 5 | 🔍 **Code Review** | AI-powered code analysis | Review code quality and security | [📖 Phase 5](phases/phase05-code-review.md) |
 | 6 | 💡 **Code Actions** | Smart fixes and suggestions | Implement error handling and edge cases | [📖 Phase 6](phases/phase06-code-actions.md) |
 | 7 | 🧠 **Editor Completions** | Advanced multi-line suggestions | Build complete features and APIs | [📖 Phase 7](phases/phase07-editor-completions.md) |
 | 8 | 📝 **AI Commit Messages** | Automated Git commit descriptions | Version control with meaningful history | [📖 Phase 8](phases/phase08-ai-commit-messages.md) |

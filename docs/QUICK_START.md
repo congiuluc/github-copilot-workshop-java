@@ -22,7 +22,7 @@ This comprehensive workshop teaches Java developers how to effectively use all G
 
 #### Development (Phases 4-6)  
 4. **[Slash Commands](phases/phase04-slash-commands.md)** - Quick actions (/explain, /fix, /doc, /test)
-5. **[Code Brushes](phases/phase05-code-brushes.md)** - Selection-based improvements
+5. **[Code Review](phases/phase05-code-review.md)** - AI-powered code analysis
 6. **[Code Actions](phases/phase06-code-actions.md)** - Smart fixes via lightbulb icons
 
 #### Advanced (Phases 7-8)
