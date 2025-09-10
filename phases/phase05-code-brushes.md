@@ -1,7 +1,7 @@
 # 🎨 Phase 5: Code Brushes - Visual Code Transformation
 **🎯 GitHub Copilot Feature**: Selection-based improvements and smart refactoring
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 4](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%204-lightgrey?style=flat-square)](phase4-slash-commands.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 4](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%204-lightgrey?style=flat-square)](phase04-slash-commands.md)
 
 ## 🎯 Objective
 Master Code Brushes (Quick Chat) to efficiently refactor and improve selected code sections through intelligent, context-aware suggestions. Learn to transform existing code into cleaner, more efficient, and maintainable implementations using visual selection techniques.
@@ -528,9 +528,9 @@ Core Logic → Error Handling → Validation → Integration → Testing
 ---
 
 ## 🚀 Next Phase
-Ready to discover Copilot's automated suggestions? Continue to **[💡 Phase 6: Code Actions](phase6-code-actions.md)** where you'll learn to use Copilot's intelligent quick fixes and automated improvements that appear as light bulb suggestions directly in your code.
+Ready to discover Copilot's automated suggestions? Continue to **[💡 Phase 6: Code Actions](phase06-code-actions.md)** where you'll learn to use Copilot's intelligent quick fixes and automated improvements that appear as light bulb suggestions directly in your code.
 
 ---
 **💡 Pro Tip**: Code Brushes work best with specific, incremental changes. Instead of asking for a complete rewrite, apply brushes in layers: first structure, then patterns, then performance, then documentation. This gives you better control and understanding of each transformation!
 
-[![➡️ Next: Phase 6 - Code Actions](https://img.shields.io/badge/➡️-Next%3A%20Phase%206%20Code%20Actions-green?style=flat-square)](phase6-code-actions.md)
+[![➡️ Next: Phase 6 - Code Actions](https://img.shields.io/badge/➡️-Next%3A%20Phase%206%20Code%20Actions-green?style=flat-square)](phase06-code-actions.md)

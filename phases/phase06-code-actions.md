@@ -1,7 +1,7 @@
 # 💡 Phase 6: Code Actions - Intelligent Quick Fixes
 **🎯 GitHub Copilot Feature**: Smart fixes and suggestions via lightbulb icons
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 5](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%205-lightgrey?style=flat-square)](phase5-code-brushes.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 5](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%205-lightgrey?style=flat-square)](phase05-code-brushes.md)
 
 ## 🎯 Objective
 Master Copilot's Code Actions to automatically identify and fix code issues, apply quick improvements, and implement suggested enhancements through the intelligent lightbulb suggestions that appear directly in your editor.
@@ -496,9 +496,9 @@ Select Target → Apply Structural Actions → Improve Patterns → Enhance Qual
 ---
 
 ## 🚀 Next Phase
-Ready to see Copilot predict your next moves? Continue to **[🧠 Phase 7: Editor Completions](phase7-editor-completions.md)** where you'll learn to leverage Copilot's advanced predictive capabilities for method signatures, variable names, and intelligent code suggestions as you type.
+Ready to see Copilot predict your next moves? Continue to **[🧠 Phase 7: Editor Completions](phase07-editor-completions.md)** where you'll learn to leverage Copilot's advanced predictive capabilities for method signatures, variable names, and intelligent code suggestions as you type.
 
 ---
 **💡 Pro Tip**: Code Actions work best when you address them promptly. Don't let lightbulbs accumulate! Make it a habit to check for and apply relevant suggestions as you code. This keeps your codebase clean and helps you learn better coding patterns through Copilot's guidance.
 
-[![➡️ Next: Phase 7 - Editor Completions](https://img.shields.io/badge/➡️-Next%3A%20Phase%207%20Editor%20Completions-green?style=flat-square)](phase7-editor-completions.md)
+[![➡️ Next: Phase 7 - Editor Completions](https://img.shields.io/badge/➡️-Next%3A%20Phase%207%20Editor%20Completions-green?style=flat-square)](phase07-editor-completions.md)

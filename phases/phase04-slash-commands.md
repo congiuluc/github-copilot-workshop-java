@@ -1,7 +1,7 @@
 # ⚙️ Phase 4: Slash Commands - Specialized AI Power Tools
 **🎯 GitHub Copilot Feature**: Quick actions with specialized commands
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 3](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%203-lightgrey?style=flat-square)](phase3-inline-chat.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 3](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%203-lightgrey?style=flat-square)](phase03-inline-chat.md)
 
 ## 🎯 Objective
 Master Copilot's slash commands to efficiently perform common development tasks like generating documentation, creating tests, explaining code, fixing issues, and optimizing performance using specialized AI commands.
@@ -420,9 +420,9 @@ Include comprehensive documentation and unit tests for each utility class.
 ---
 
 ## 🚀 Next Phase
-Ready to enhance your code visually and interactively? Continue to **[🎨 Phase 5: Code Brushes](phase5-code-brushes.md)** where you'll learn to use Copilot's visual editing features to transform selected code sections with intuitive brush-like actions.
+Ready to enhance your code visually and interactively? Continue to **[🎨 Phase 5: Code Brushes](phase05-code-brushes.md)** where you'll learn to use Copilot's visual editing features to transform selected code sections with intuitive brush-like actions.
 
 ---
 **💡 Pro Tip**: Slash commands are most powerful when combined! Use `/generate` to create code, `/doc` to document it, `/test` to verify it, and `/optimize` to perfect it. This creates a complete, professional development workflow with AI assistance at every step.
 
-[![➡️ Next: Phase 5 - Code Brushes](https://img.shields.io/badge/➡️-Next%3A%20Phase%205%20Code%20Brushes-green?style=flat-square)](phase5-code-brushes.md)
+[![➡️ Next: Phase 5 - Code Brushes](https://img.shields.io/badge/➡️-Next%3A%20Phase%205%20Code%20Brushes-green?style=flat-square)](phase05-code-brushes.md)

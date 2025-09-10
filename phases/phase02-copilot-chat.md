@@ -1,7 +1,7 @@
 # 💬 Phase 2: Copilot Chat - Your AI Pair Programming Partner
 **🎯 GitHub Copilot Feature**: Interactive AI assistant for code discussion and improvement
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 1](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%201-lightgrey?style=flat-square)](phase1-code-completions.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 1](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%201-lightgrey?style=flat-square)](phase01-code-completions.md)
 
 ## 🎯 Objective
 Learn how to use GitHub Copilot Chat as your AI pair programming partner to understand code, get suggestions for architecture improvements, and solve complex development challenges through interactive conversation.
@@ -406,9 +406,9 @@ Chat: [Provides exception aggregation patterns]
 ---
 
 ## 🚀 Next Phase
-Ready to see Copilot in action within your code? Continue to **[⚡ Phase 3: Inline Chat](phase3-inline-chat.md)** where you'll learn to make quick, context-aware modifications directly in your code files using Copilot's inline conversation feature.
+Ready to see Copilot in action within your code? Continue to **[⚡ Phase 3: Inline Chat](phase03-inline-chat.md)** where you'll learn to make quick, context-aware modifications directly in your code files using Copilot's inline conversation feature.
 
 ---
 **💡 Pro Tip**: The best conversations with Copilot Chat happen when you treat it like a knowledgeable colleague. Don't hesitate to ask "why" and "how" questions, challenge suggestions, and explore alternatives. The more you engage, the better the insights you'll receive!
 
-[![➡️ Next: Phase 3 - Inline Chat](https://img.shields.io/badge/➡️-Next%3A%20Phase%203%20Inline%20Chat-green?style=flat-square)](phase3-inline-chat.md)
+[![➡️ Next: Phase 3 - Inline Chat](https://img.shields.io/badge/➡️-Next%3A%20Phase%203%20Inline%20Chat-green?style=flat-square)](phase03-inline-chat.md)

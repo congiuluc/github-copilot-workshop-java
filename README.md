@@ -18,15 +18,15 @@ We'll build a console-based task management system that includes:
 
 | Phase | Feature | Description | Objective | Link |
 |-------|---------|-------------|-----------|------|
-| 1 | 🔤 **Code Completions** | Basic autocomplete suggestions | Create core model classes | [📖 Phase 1](phases/phase1-code-completions.md) |
-| 2 | 💬 **Copilot Chat** | Interactive AI assistant | Design architecture and get code reviews | [📖 Phase 2](phases/phase2-copilot-chat.md) |
-| 3 | ⚡ **Inline Chat** | Context-aware editing | Enhance models with validation | [📖 Phase 3](phases/phase3-inline-chat.md) |
-| 4 | ⚙️ **Slash Commands** | Quick actions and templates | Generate service layer and interfaces | [📖 Phase 4](phases/phase4-slash-commands.md) |
-| 5 | 🎨 **Code Brushes** | Selection-based improvements | Refactor and optimize existing code | [📖 Phase 5](phases/phase5-code-brushes.md) |
-| 6 | 💡 **Code Actions** | Smart fixes and suggestions | Implement error handling and edge cases | [📖 Phase 6](phases/phase6-code-actions.md) |
-| 7 | 🧠 **Editor Completions** | Advanced multi-line suggestions | Build complete features and APIs | [📖 Phase 7](phases/phase7-editor-completions.md) |
-| 8 | 📝 **AI Commit Messages** | Automated Git commit descriptions | Version control with meaningful history | [📖 Phase 8](phases/phase8-ai-commit-messages.md) |
-| 9 | 🧪 **Advanced Testing** | Test generation and optimization | Comprehensive test suite | [📖 Phase 9](phases/phase9-advanced-testing.md) |
+| 1 | 🔤 **Code Completions** | Basic autocomplete suggestions | Create core model classes | [📖 Phase 1](phases/phase01-code-completions.md) |
+| 2 | 💬 **Copilot Chat** | Interactive AI assistant | Design architecture and get code reviews | [📖 Phase 2](phases/phase02-copilot-chat.md) |
+| 3 | ⚡ **Inline Chat** | Context-aware editing | Enhance models with validation | [📖 Phase 3](phases/phase03-inline-chat.md) |
+| 4 | ⚙️ **Slash Commands** | Quick actions and templates | Generate service layer and interfaces | [📖 Phase 4](phases/phase04-slash-commands.md) |
+| 5 | 🎨 **Code Brushes** | Selection-based improvements | Refactor and optimize existing code | [📖 Phase 5](phases/phase05-code-brushes.md) |
+| 6 | 💡 **Code Actions** | Smart fixes and suggestions | Implement error handling and edge cases | [📖 Phase 6](phases/phase06-code-actions.md) |
+| 7 | 🧠 **Editor Completions** | Advanced multi-line suggestions | Build complete features and APIs | [📖 Phase 7](phases/phase07-editor-completions.md) |
+| 8 | 📝 **AI Commit Messages** | Automated Git commit descriptions | Version control with meaningful history | [📖 Phase 8](phases/phase08-ai-commit-messages.md) |
+| 9 | 🧪 **Advanced Testing** | Test generation and optimization | Comprehensive test suite | [📖 Phase 9](phases/phase09-advanced-testing.md) |
 | 10 | 📚 **Documentation & Diagrams** | Auto-generated docs and Mermaid | Complete project documentation | [📖 Phase 10](phases/phase10-documentation-diagrams.md) |
 | 11 | 🤖 **Agent Mode** | Autonomous code generation | Advanced features with AI agent | [📖 Phase 11](phases/phase11-agent-mode.md) |
 
@@ -123,6 +123,6 @@ By completing this workshop, you will:
 ---
 
 ## 🚀 Ready to Start?
-Begin with **[🔤 Phase 1: Code Completions](phases/phase1-code-completions.md)** to create your first model classes using Copilot's basic completion features.
+Begin with **[🔤 Phase 1: Code Completions](phases/phase01-code-completions.md)** to create your first model classes using Copilot's basic completion features.
 
 **🎉 Happy Coding with AI! 🚀**

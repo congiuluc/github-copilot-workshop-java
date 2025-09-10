@@ -16,21 +16,21 @@ This comprehensive workshop teaches Java developers how to effectively use all G
 ### Workshop Structure (11 Phases)
 
 #### Foundation (Phases 1-3)
-1. **[Code Completions](phases/phase1-code-completions.md)** - Basic autocomplete and suggestions
-2. **[Copilot Chat](phases/phase2-copilot-chat.md)** - Interactive AI assistant
-3. **[Inline Chat](phases/phase3-inline-chat.md)** - Context-aware editing
+1. **[Code Completions](phases/phase01-code-completions.md)** - Basic autocomplete and suggestions
+2. **[Copilot Chat](phases/phase02-copilot-chat.md)** - Interactive AI assistant
+3. **[Inline Chat](phases/phase03-inline-chat.md)** - Context-aware editing
 
 #### Development (Phases 4-6)  
-4. **[Slash Commands](phases/phase4-slash-commands.md)** - Quick actions (/explain, /fix, /doc, /test)
-5. **[Code Brushes](phases/phase5-code-brushes.md)** - Selection-based improvements
-6. **[Code Actions](phases/phase6-code-actions.md)** - Smart fixes via lightbulb icons
+4. **[Slash Commands](phases/phase04-slash-commands.md)** - Quick actions (/explain, /fix, /doc, /test)
+5. **[Code Brushes](phases/phase05-code-brushes.md)** - Selection-based improvements
+6. **[Code Actions](phases/phase06-code-actions.md)** - Smart fixes via lightbulb icons
 
 #### Advanced (Phases 7-8)
-7. **[Editor Completions](phases/phase7-editor-completions.md)** - Multi-line intelligent suggestions
-8. **[AI Commit Messages](phases/phase8-ai-commit-messages.md)** - Automated Git descriptions
+7. **[Editor Completions](phases/phase07-editor-completions.md)** - Multi-line intelligent suggestions
+8. **[AI Commit Messages](phases/phase08-ai-commit-messages.md)** - Automated Git descriptions
 
 #### Professional (Phases 9-11)
-9. **[Advanced Testing](phases/phase9-advanced-testing.md)** - Comprehensive test generation
+9. **[Advanced Testing](phases/phase09-advanced-testing.md)** - Comprehensive test generation
 10. **[Documentation & Diagrams](phases/phase10-documentation-diagrams.md)** - Auto-generated docs and Mermaid
 11. **[Agent Mode](phases/phase11-agent-mode.md)** - Autonomous feature implementation
 
@@ -101,6 +101,6 @@ By the end, you'll have built a complete Task Management System featuring:
 
 ---
 
-**Ready to start?** Begin with **[Phase 1: Code Completions](phases/phase1-code-completions.md)**
+**Ready to start?** Begin with **[Phase 1: Code Completions](phases/phase01-code-completions.md)**
 
 **Happy Learning! 🚀**
